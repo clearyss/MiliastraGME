@@ -439,17 +439,6 @@ MiliastraGME/
 
 <a id="contributing"></a>
 
-## 🤝 参与贡献
-
-欢迎参与项目贡献！你可以：
-
-- 提交 [Bug 报告](https://github.com/clearyss/MiliastraGME/issues/new?template=bug_report.md)
-- 提出 [新功能建议](https://github.com/clearyss/MiliastraGME/issues/new?template=feature_request.md)
-- 改进 [文档](https://github.com/clearyss/MiliastraGME/wiki)
-- 提交 [Pull Request](https://github.com/clearyss/MiliastraGME/pulls)
-
-<a id="community"></a>
-
 ## 💬 交流反馈
 
 - 问题反馈：[GitHub Issues](https://github.com/clearyss/MiliastraGME/issues)
