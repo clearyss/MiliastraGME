@@ -1,0 +1,21 @@
+{
+  "name": "虚拟麦克风音乐参数",
+  "description": "面向本机音乐/虚拟声卡输入，关闭全部语音处理",
+  "audio": {
+    "aec": 0,
+    "agc": 0,
+    "ans": 0,
+    "ains": 0,
+    "vad": 0,
+    "fec": 1,
+    "frame": 40,
+    "sample_rate": 48000,
+    "channel": 2,
+    "codec_prof": 4129,
+    "kbps": 128,
+    "bitrate": 128000,
+    "jitter_init": 1000,
+    "jitter_min": 1200,
+    "jitter_max": 2000
+  }
+}
